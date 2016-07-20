@@ -1,6 +1,7 @@
 1.Put the keyword in the "Words.txt" with a newline character  
 >searching-word  
 >key-word  (separate by '|')  
+
 For example:  
 >zest  
 >distribution|Transportation|Shipping

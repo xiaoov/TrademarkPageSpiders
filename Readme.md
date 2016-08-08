@@ -14,5 +14,5 @@ For example:
 Like:  
 >zest.txt  
 
-ps:if it always can not start.truncate the file:"key"
+ps:if it always can not start.Empty the file:"key"
 
